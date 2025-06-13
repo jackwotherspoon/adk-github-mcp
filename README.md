@@ -44,7 +44,7 @@ You'll need a Google AI Studio API key to use the Gemini model.
 4.  Set it as an environment variable named `GOOGLE_API_KEY`:
 
 ```bash
-export GOOGLE_API_KEY="YOUR_GOOGLE_API_KE
+export GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
 ```
 
 #### GitHub Personal Access Token (PAT)
